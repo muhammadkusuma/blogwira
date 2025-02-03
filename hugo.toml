@@ -27,7 +27,7 @@ post = "/:slug/"
     truncate = true
 
     # Author's name (appears in meta tags and under posts)
-    author = "M. Wira Ade Kusuma"
+    author = "Wira"
 
     # This text appears in site header under website title
     subtitle = "Hanya Sekedar Catatan Saja"
